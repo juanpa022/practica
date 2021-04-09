@@ -6,6 +6,9 @@
 using namespace std;
 int main()
 {
-    cout <<"hola cholossss";
+    int a=1,b=2;
+    cout <<"hola cholossss\n";
+    cout <<"no te creo \n";
+    cout <<a+b;
     return 0;
 }
